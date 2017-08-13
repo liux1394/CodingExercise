@@ -11,7 +11,9 @@ namespace CodingExercise
         static void Main(string[] args)
         {
             PrintFactors inst = new PrintFactors();
-            inst.Test();
+            inst.Test(32);
+            inst.Test(12);
+            inst.Test(1);
             Console.ReadKey();
         }
     }
