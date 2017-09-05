@@ -10,10 +10,14 @@ namespace CodingExercise
     {
         static void Main(string[] args)
         {
-            PrintFactors inst = new PrintFactors();
-            inst.Test(32);
-            inst.Test(12);
-            inst.Test(1);
+            // PrintFactors target = new PrintFactors();
+            // target.Test(32);
+            // target.Test(12);
+            // target.Test(1);
+
+            DictionaryMatch target = new DictionaryMatch();
+            target.Test();
+
             Console.ReadKey();
         }
     }
