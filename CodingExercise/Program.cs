@@ -15,7 +15,10 @@ namespace CodingExercise
             // target.Test(12);
             // target.Test(1);
 
-            DictionaryMatch target = new DictionaryMatch();
+            // DictionaryMatch target = new DictionaryMatch();
+            // target.Test();
+
+            SquareOperations target = new SquareOperations();
             target.Test();
 
             Console.ReadKey();
