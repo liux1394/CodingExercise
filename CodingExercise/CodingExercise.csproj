@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BlackOrWhiteSquare.cs" />
     <Compile Include="DictionaryMatch.cs" />
+    <Compile Include="FunctionExecutionTime.cs" />
     <Compile Include="PrintFactors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

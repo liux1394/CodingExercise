@@ -4,3 +4,9 @@ C:\Users\Yin\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise
 C:\Users\Yin\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojResolveAssemblyReference.cache
 C:\Users\Yin\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.exe
 C:\Users\Yin\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.exe
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojResolveAssemblyReference.cache
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+C:\Users\yiliu1\Documents\Visual Studio 2015\Projects\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
