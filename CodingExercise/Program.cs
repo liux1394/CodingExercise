@@ -21,7 +21,10 @@ namespace CodingExercise
             //  SquareOperations target = new SquareOperations();
             // target.Test();
 
-            FunctionExecutionTime target = new FunctionExecutionTime();
+            // FunctionExecutionTime target = new FunctionExecutionTime();
+            // target.Test();
+
+            RemoveInalidParentheses target = new RemoveInalidParentheses();
             target.Test();
 
             Console.ReadKey();
