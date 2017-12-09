@@ -50,6 +50,7 @@
     <Compile Include="PrintFactors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveInalidParentheses.cs" />
     <Compile Include="Trie.cs" />
   </ItemGroup>
   <ItemGroup>

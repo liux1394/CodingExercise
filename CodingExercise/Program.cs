@@ -24,7 +24,11 @@ namespace CodingExercise
             // FunctionExecutionTime target = new FunctionExecutionTime();
             // target.Test();
 
+<<<<<<< HEAD
             PalindromePermutationII target = new PalindromePermutationII();
+=======
+            RemoveInalidParentheses target = new RemoveInalidParentheses();
+>>>>>>> b8a0cf2edf1dd08cef5f2e846c0e19de2ff11b45
             target.Test();
 
             Console.ReadKey();
