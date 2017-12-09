@@ -21,7 +21,10 @@ namespace CodingExercise
             //  SquareOperations target = new SquareOperations();
             // target.Test();
 
-            FunctionExecutionTime target = new FunctionExecutionTime();
+            // FunctionExecutionTime target = new FunctionExecutionTime();
+            // target.Test();
+
+            PalindromePermutationII target = new PalindromePermutationII();
             target.Test();
 
             Console.ReadKey();
