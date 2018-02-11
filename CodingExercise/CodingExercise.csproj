@@ -46,6 +46,7 @@
     <Compile Include="BlackOrWhiteSquare.cs" />
     <Compile Include="DictionaryMatch.cs" />
     <Compile Include="FunctionExecutionTime.cs" />
+    <Compile Include="GeneratelLowestNumber.cs" />
     <Compile Include="PalindromePermutationII.cs" />
     <Compile Include="PrintFactors.cs" />
     <Compile Include="Program.cs" />
